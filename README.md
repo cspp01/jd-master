@@ -1,5 +1,5 @@
 ### 寄递物流管理系统
-##### 技术栈：html,css,javascript,jquery,bootstrap,ajax,gulp,less,echarts等
+##### 技术栈：html,css,javascript,jquery,bootstrap,ajax,gulp,less,echarts
 首页
 ![](./showimg/home.jpg)
 数据展示
